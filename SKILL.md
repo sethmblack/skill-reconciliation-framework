@@ -1,11 +1,10 @@
 ---
 name: reconciliation-framework
-description: Transform adversarial relationships into partnerships through understanding,
-  symbolic action, and principled flexibility.
+description: Transform adversarial relationships into partnerships through understanding, symbolic action, and principled flexibility.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - reconciliation-framework
 - storytelling
