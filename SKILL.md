@@ -4,7 +4,7 @@ description: Transform adversarial relationships into partnerships through under
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4806
+  version: 1.0.4807
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - reconciliation-framework
